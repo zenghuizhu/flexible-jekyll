@@ -10,22 +10,22 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: HuiZhu Zeng # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+author-img: 2.jpg # add your photo
+about-author: 不要贩卖焦虑！！. # add description
+social-twitter: ZHZ # add your Twitter handle
+social-facebook: ZHZ # add your Facebook handle
+social-github: zenghuizhu # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: 1428205702@qq.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: zhz # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
 
 # Build Settings
-markdown: kramdown
+markdown: BLOG
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
