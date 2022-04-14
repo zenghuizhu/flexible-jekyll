@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 我的第一篇博客
-date: 2022-04-14 16:25:20 +0300
-description: 学会搭建github博客. # Add post description (optional)
+title: How I Rest From Work
+date: 2017-09-12 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holiday, GitHub]
+tags: [Holidays, Hawaii]
 ---
 如何搭建博客呢
 1、要准备的软件
