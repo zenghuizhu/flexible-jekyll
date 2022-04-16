@@ -3,7 +3,7 @@ layout: post
 title: HTML&CSS-学习
 date: 2022-04-16 00:00:00 +0300
 description: GIT博客必备技能 # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: CSDNClass1.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Programming, Learn] # add tag
 ---
@@ -27,7 +27,8 @@ tags: [Programming, Learn] # add tag
 ***
 
 # 图片
-！[图片alt](/assets/img/favicon/15.jpg "图片标题")
+！[图片alt](/assets/img/favicon/15.jpg "看吧")
+![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
 - 图片alt 图片说明
 - 图片title 鼠标悬停在图片的时候显示的文字
 
