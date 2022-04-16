@@ -1,9 +1,28 @@
 ---
 layout: post
-title: How I Rest From Workssss
+title: GitHub使用-创建自己的博客
 date: 2022-04-16 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: github.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Programming, Learn] # add tag
 ---
+## 准备步骤
+- **[1、Git软件下载](https://git-scm.com/  "下载Git")**
+- **[2、GitHub登录](https://git-scm.com/ )**
+  - 注册——》登录
+  - SSL公钥设置
+- **[3、免费博客主题](http://jekyllthemes.org)**
+  - 选择一个喜好的样式，然后点击【homepage】进行Fork
+- **[4、GitHub修改](https://git-scm.com/ )**
+  - 1.对Fork的资料进行Setting设置，重命名
+  - 2.点击GitHub Page进行主题选择
+-  5、Git Clone
+   - git https
+   - git ssl
+-  6、VS Code 修改
+   - comfig.yml文件修改
+     - baseurl 需要特别注意
+   - post 文件新建（目录文件）
+-  7、Git push
+-  **[8、查看自己的博客](https:/zenghuizhu.github.io )**
