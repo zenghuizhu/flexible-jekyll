@@ -3,7 +3,7 @@ layout: post
 title: GIT-阿里云-使用
 date: 2022-04-10 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: aliyunCode.png # Add image post (optional)
+img: aliyunCode.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Programming, Learn] # add tag
 ---
